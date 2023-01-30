@@ -329,6 +329,7 @@ Der CMOS Reset Trick hilft, wenn das BIOS gebrickt ist und weder etwas bootet no
 \- unbestückten RS232 Seriell-Port nachlöten ([1](https://www.mydealz.de/comments/permalink/38079460), [2](https://www.mydealz.de/comments/permalink/38286057))  
 \- 2x unbestückte SATA Ports nachlöten (es müssen zusätzlich je 4x 0402 10nF SMD Kondensatoren nachgelötet werden) ([1](https://www.mydealz.de/comments/permalink/38114275))  
 \- Lautsrpecher nachrüsten: 4-poliger Molex PicoBlade 1,25mm - äußere Pins werden kurzgeschlossen, innere Pins an den neuen Lautsprechern ([1](https://www.mydealz.de/comments/permalink/38573298), [2](https://www.mydealz.de/comments/permalink/38950255)) (Original Lautsprecher: 3,2 Ohm, 2W)  
+\- GPIO: Arduino mit HIDRaw oder HID Keyboard (entsprechende Logik noch auf der Nano Seite) ([1](https://github.com/NicoHood/HID/blob/master/examples/RawHID/RawHID/RawHID.ino), [2](https://github.com/NicoHood/HID/blob/master/examples/System/System.ino))
 
 ## 5 - Stromverbrauch  
 
