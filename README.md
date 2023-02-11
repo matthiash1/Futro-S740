@@ -431,6 +431,7 @@ Wem der Stromverbrauch wichtig ist sollte sich ein verlässliches Energiemessger
 \- [CPU Benchmark mit anderen CPUs vergleichen](https://www.cpubenchmark.net/compare/BCM2711-vs-Intel-Celeron-J4105/4297vs3159)  
 \- HardwareLuxx Threads über Stromsparende Systeme ([<30W](https://www.hardwareluxx.de/community/threads/die-sparsamsten-systeme-30w-idle.1007101/), [<10W](https://www.hardwareluxx.de/community/threads/alltagstaugliche-desktop-systeme-mit-10w-idle-verbrauch-inkl-llano-fm1-beispiel.799083/), [<6W](https://www.hardwareluxx.de/community/threads/alltagstaugliche-desktop-systeme-mit-6w-idle-verbrauch-inkl-haswell-beispiel.1001484/))  
 \- [Gaming Benchmark](https://www.mydealz.de/comments/permalink/37547422)  
+\- [Audio mit HDMI auf Proxmox](https://www.mydealz.de/comments/permalink/38190848)
 
 ## 8 - Bilder 
 
